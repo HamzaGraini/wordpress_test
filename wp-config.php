@@ -22,10 +22,10 @@
 define('DB_NAME', 'wordpress');
 
 /** Utilisateur de la base de données MySQL. */
-define('DB_USER', 'adminMTfLMNK');
+define('DB_USER', 'adminlhpDiiP');
 
 /** Mot de passe de la base de données MySQL. */
-define('DB_PASSWORD', 'ket5TWH8ECrS');
+define('DB_PASSWORD', 'r4chBSVMKmCj');
 
 /** Adresse de l’hébergement MySQL. */
 define('DB_HOST', 'mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/');
