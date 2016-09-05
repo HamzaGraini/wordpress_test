@@ -28,7 +28,7 @@ define('DB_USER', 'adminlhpDiiP');
 define('DB_PASSWORD', 'r4chBSVMKmCj');
 
 /** Adresse de l’hébergement MySQL. */
-define('DB_HOST', 'mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/');
+define('DB_HOST', 'https://dev-centreelwalid.rhcloud.com');
 
 /** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
 define('DB_CHARSET', 'utf8mb4');
