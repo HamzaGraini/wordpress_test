@@ -1,0 +1,417 @@
+# Translation of Patus in French (France)
+# This file is distributed under the same license as the Patus package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-29 05:49:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Patus\n"
+
+#. Theme Name of the plugin/theme
+msgid "Patus"
+msgstr "Patus"
+
+#. Description of the plugin/theme
+msgid "Patus is a Personal Blogging Theme for WordPress and an effortlessly tool for publishers of all kind, cherished for its flexibility, clean layouts and speed. It’s totally responsive so it adapts to your style as well as the device it’s viewed on."
+msgstr "Patus is a Personal Blogging Theme for WordPress and an effortlessly tool for publishers of all kind, cherished for its flexibility, clean layouts and speed. It’s totally responsive so it adapts to your style as well as the device it’s viewed on."
+
+#: inc/dashboard.php:30
+msgid "Start Customize"
+msgstr "Commencez à personnaliser"
+
+#: inc/dashboard.php:8
+msgid "%s Dashboard"
+msgstr "Tableau de bord de %s"
+
+#: inc/dashboard.php:8
+msgid "%s Theme Dashboard"
+msgstr "Tableau de bord du thème %s"
+
+#: inc/dashboard.php:37
+msgid "http://docs.famethemes.com/category/9-patus"
+msgstr "http://docs.famethemes.com/category/9-patus"
+
+#: inc/dashboard.php:42
+msgid "Support for %s WordPress theme is conducted through the WordPress free theme support forum."
+msgstr "Le support pour le thème WordPress %s est géré par le forum de support gratuit de FameThemes."
+
+#: inc/dashboard.php:44
+msgid "https://wordpress.org/support/theme/patus"
+msgstr "https://wordpress.org/support/theme/patus"
+
+#. Template Name of the plugin/theme
+msgid "Archives Template"
+msgstr "Modèle d'archives"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth Template"
+msgstr "Modèle de pleine largeur"
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:29
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite de %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:18 template-parts/content-single.php:42
+#: template-parts/content.php:36
+msgid "Pages:"
+msgstr "Pages :"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que rien ne soit trouvé pour votre recherche."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre 1er article ? <a href=\"%1$s\">Lancez vous ici</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Rien de trouvé"
+
+#: page-templates/template-archive.php:16
+msgid "Last 30 Posts"
+msgstr "Les 30 derniers articles"
+
+#: page-templates/template-archive.php:29
+msgid "n.j.y"
+msgstr "n.j.y"
+
+#: page-templates/template-archive.php:32
+msgid "Monthly Archives"
+msgstr "Archives du mois"
+
+#: page-templates/template-archive.php:36
+msgid "Archives by Subject"
+msgstr "Archives par Sujet"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#: inc/dashboard.php:28
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s supporte l'outil de personnalisation pour tous les réglages du thème. Cliquez sur Personnaliser pour personnaliser votre site."
+
+#: inc/dashboard.php:35
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "Besoin d'aide pour configurer %s ? Jetez un œil sur notre documentation."
+
+#: inc/dashboard.php:37
+msgid "Online Documentation"
+msgstr "Documentation en ligne"
+
+#: inc/dashboard.php:18
+msgid "Welcome to %1s - Version %2s"
+msgstr "Bienvenue dans %1s - Version %2s"
+
+#: inc/template-tags.php:252
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de validation."
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:244
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:246
+msgid "Reply"
+msgstr "Répondre"
+
+#: inc/template-tags.php:238
+msgid "Post author"
+msgstr "Auteur d'article"
+
+#: inc/template-tags.php:222
+msgid "(Edit)"
+msgstr "(Modifier)"
+
+#: inc/template-tags.php:222
+msgid "Pingback:"
+msgstr "Ping :"
+
+#: inc/template-tags.php:194
+msgid "Posts navigation"
+msgstr "Navigation des articles"
+
+#: inc/template-tags.php:187
+msgid "Next &rarr;"
+msgstr "Suivant &rarr;"
+
+#: inc/template-tags.php:186
+msgid "&larr; Previous"
+msgstr "&larr; Précédent"
+
+#: inc/template-tags.php:109 inc/template-tags.php:247
+#: template-parts/content-page.php:25
+msgid "Edit"
+msgstr "Modifier"
+
+#: inc/template-tags.php:105
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: inc/template-tags.php:93
+msgid "Posted in %1$s"
+msgstr "Publié dans %1$s"
+
+#: inc/template-tags.php:99
+msgid "Tagged %1$s"
+msgstr "Étiqueté %1$s"
+
+#: inc/template-tags.php:76 inc/template-tags.php:105
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: inc/template-tags.php:71
+msgid " in %1$s"
+msgstr " dans %1$s"
+
+#: inc/template-tags.php:76
+msgid "0 Comment"
+msgstr "0 Commentaire"
+
+#: inc/template-tags.php:76 inc/template-tags.php:105
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: inc/template-tags.php:27
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+
+#: inc/template-tags.php:28
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:54
+msgctxt "post date"
+msgid " on %s"
+msgstr " le %s"
+
+#: inc/template-tags.php:63
+msgctxt "post author"
+msgid "Posted by %s"
+msgstr "Publié par %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:69 inc/template-tags.php:91 inc/template-tags.php:97
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:24
+msgid "Post navigation"
+msgstr "Navigation d'article"
+
+#: inc/extras.php:72
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/customizer.php:179
+msgid "Right Sidebar"
+msgstr "Barre de droite"
+
+#: inc/customizer.php:178
+msgid "Left Sidebar"
+msgstr "Barre de gauche"
+
+#: inc/customizer.php:32
+msgid "Sidebar Position:"
+msgstr "Position de barre :"
+
+#: inc/customizer.php:50
+msgid "Right Footer Text:"
+msgstr "Texte de pied à droite :"
+
+#: inc/customizer.php:57
+msgid "Social Settings"
+msgstr "Paramètres sociaux"
+
+#: inc/customizer.php:68
+msgid "RSS Feed:"
+msgstr "Fil RSS :"
+
+#: inc/customizer.php:81
+msgid "Email Address:"
+msgstr "Adresse Email&nbsp;:"
+
+#: inc/customizer.php:94
+msgid "Twitter Link:"
+msgstr "Lien Twitter :"
+
+#: inc/customizer.php:107
+msgid "Facebook Link:"
+msgstr "Lien Facebook :"
+
+#: inc/customizer.php:120
+msgid "Google Plus Link:"
+msgstr "Lien Google Plus :"
+
+#: inc/customizer.php:135
+msgid "Primary Color"
+msgstr "Couleur principale"
+
+#: inc/customizer.php:149
+msgid "Secondary Color"
+msgstr "Couleur secondaire"
+
+#: inc/customizer.php:21
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Dosis, translate this to 'off'. Do not translate into your own language.
+#: functions.php:98
+msgctxt "Dosis font: on or off"
+msgid "on"
+msgstr "le"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: functions.php:76
+msgid "Sidebar"
+msgstr "Barre"
+
+#: footer.php:16
+msgid "&copy;"
+msgstr "&copy"
+
+#: footer.php:17
+msgid " - Theme: %1$s by %2$s."
+msgstr "Traduit par <a href=\"http://www.wptrads.com\" target= _blank>Wp Trads</a>. Thème %1$s par %2$s"
+
+#: footer.php:17
+msgid "http://www.famethemes.com/"
+msgstr "http://www.famethemes.com/"
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:37 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: comments.php:36 comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: comments.php:35 comments.php:51
+msgid "Comment navigation"
+msgstr "Navigation de commentaire"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un commentaire sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s commentaires sur &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Archives"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audios"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Discussions"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Statuts"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Liens"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Citations"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Vidéos"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galeries"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Annonces"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Année : %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Mois : %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Jour : %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Essayez de regarder dans les archives mensuelles. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Catégories les plus utilisées"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Il semble que rien ne soit trouvé à cet emplacement. Essayez les liens ci-dessous ou une recherche"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups, la page ne peut être trouvée"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.famethemes.com/themes/patus"
+msgstr "http://www.famethemes.com/themes/patus"
+
+#. Author of the plugin/theme
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.famethemes.com"
+msgstr "http://www.famethemes.com"
