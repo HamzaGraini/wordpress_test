@@ -28,7 +28,7 @@ define('DB_USER', 'Administrator');
 define('DB_PASSWORD', 'zus0120');
 
 /** Adresse de l’hébergement MySQL. */
-define('DB_HOST', 'https://dev-centreelwalid.rhcloud.com');
+define('DB_HOST', 'https://deploy-centreelwalid.rhcloud.com');
 
 /** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
 define('DB_CHARSET', 'utf8mb4');
