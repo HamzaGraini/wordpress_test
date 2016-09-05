@@ -22,10 +22,10 @@
 define('DB_NAME', 'wordpress');
 
 /** Utilisateur de la base de données MySQL. */
-define('DB_USER', 'adminlhpDiiP');
+define('DB_USER', 'Administrator');
 
 /** Mot de passe de la base de données MySQL. */
-define('DB_PASSWORD', 'r4chBSVMKmCj');
+define('DB_PASSWORD', 'zus0120');
 
 /** Adresse de l’hébergement MySQL. */
 define('DB_HOST', 'https://dev-centreelwalid.rhcloud.com');
