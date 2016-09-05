@@ -22,13 +22,13 @@
 define('DB_NAME', 'wordpress');
 
 /** Utilisateur de la base de données MySQL. */
-define('DB_USER', 'admintrAukmq');
+define('DB_USER', 'adminMTfLMNK');
 
 /** Mot de passe de la base de données MySQL. */
-define('DB_PASSWORD', 'u1KklcqrnqhR');
+define('DB_PASSWORD', 'ket5TWH8ECrS');
 
 /** Adresse de l’hébergement MySQL. */
-define('DB_HOST', 'https://developer-centreelwalid.rhcloud.com/');
+define('DB_HOST', 'mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/');
 
 /** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
 define('DB_CHARSET', 'utf8mb4');
